@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl -L \"https://github.com/orioncactus/pretendard/releases/download/v1.3.9/Pretendard-Thin.woff\" -o Pretendard-Thin.woff)",
+      "Bash(curl -L \"https://github.com/orioncactus/pretendard/releases/download/v1.3.9/Pretendard-ExtraLight.woff\" -o Pretendard-ExtraLight.woff)",
+      "Bash(curl -L \"https://github.com/orioncactus/pretendard/releases/download/v1.3.9/Pretendard-Light.woff\" -o Pretendard-Light.woff)",
+      "Bash(curl -L \"https://github.com/orioncactus/pretendard/releases/download/v1.3.9/Pretendard-Regular.woff\" -o Pretendard-Regular.woff)",
+      "Bash(curl -L \"https://github.com/orioncactus/pretendard/releases/download/v1.3.9/Pretendard-Medium.woff\" -o Pretendard-Medium.woff)"
+    ]
+  }
+}
